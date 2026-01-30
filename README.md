@@ -20,4 +20,6 @@ Himanshu Kumar(25b2110)- Fake News Detection using NLP(project)
 * File: `samplenotebook (1).ipynb`
  ## 📅 Week 4
 * I changed my model from Logistic Regression to Passive Aggressive Classifier and trained it till I got accuracy more than 93%.
+*I saved the trained model using joblib so that I don’t have to train the model again and again.
+*Then I tested the model by giving some real and fake news headlines which confused the model and then I wrote why the model failed there.
 *
