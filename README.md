@@ -18,3 +18,5 @@ Himanshu Kumar(25b2110)- Fake News Detection using NLP(project)
 * I learned how to scrub text to remove links and punctuation with Regex and TF-IDF to convert words into numbers.
 * I used a Logistic Regression model to try and guess if news is fake.
 * File: `samplenotebook (1).ipynb`
+ ## 📅 Week 4
+*
