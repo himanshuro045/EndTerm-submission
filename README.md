@@ -14,9 +14,10 @@ Himanshu Kumar(25b2110)- Fake News Detection using NLP(project)
 * In intro to NLP, learned to cleanup the text,concept of vectorisation,model training and evaluatiom.
  ## 📅 Week 3
 * I started the Fake News Detector.
-* I learned the Grammer of Scikit-Learn
+* I learned the Grammer of Scikit-Learn.
 * I learned how to scrub text to remove links and punctuation with Regex and TF-IDF to convert words into numbers.
 * I used a Logistic Regression model to try and guess if news is fake.
 * File: `samplenotebook (1).ipynb`
  ## 📅 Week 4
+* I changed my model from Logistic Regression to Passive Aggressive Classifier and trained it till I got accuracy more than 93%.
 *
