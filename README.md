@@ -2,7 +2,7 @@
 Himanshu Kumar(25b2110)- Fake News Detection using NLP(project)
 # Fake News Detector using NLP
 
-*This is my work from the first 3 weeks.
+* This is my work from the first 3 weeks.
 ## 📅 Week 1
 * I practiced using the NumPy and Pandas library provided in the additional_problems file and completed the following tasks for week1
  * File: `np_assignment_25b2110.ipynb`
@@ -23,4 +23,4 @@ Himanshu Kumar(25b2110)- Fake News Detection using NLP(project)
 * I saved the trained model using joblib so that I don’t have to train the model again and again.
 * Then I tested the model by giving some real and fake news headlines which confused the model and then I wrote why the model failed there.
 * After that, I made a simple web app using Gradio where user can enter a news text and get result as real or fake.
-* Finally, I deployed the model by launching the app with a public link and took screenshot of the running app.
+* Finally, I deployed the model by launching the app with a public link. 
